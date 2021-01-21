@@ -1,0 +1,4 @@
+*.txt
+result/
+checkpoints/
+__pycache__/
